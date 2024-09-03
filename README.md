@@ -68,9 +68,9 @@ cargo cargo install --features bins --path .
 or
 
 - `cargo build --features bins` : to just compile and leave the binaries in
-`target/debug` folder.
+  `target/debug` folder.
 - `cargo build --release --features bins` : to just compile in release mode
-and leave the binaries in `target/release` folder.
+  and leave the binaries in `target/release` folder.
 
 ```text
 $ proof-converter --help
